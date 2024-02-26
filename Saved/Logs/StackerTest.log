@@ -1203,3 +1203,17 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.23-12.37.34:343][  0]LogPakFile: Initializing PakPlatformFile
 [2024.02.23-12.37.34:344][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE5/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2024.02.23-12.39.49:173][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.709 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13311 files in 15975 folders with total size 534 MiB.
+[2024.02.23-13.25.00:311][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.23-17.25.38:765][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [14438 Seconds] waiting for h/w. InstanceID=1
+[2024.02.23-17.40.23:764][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.845 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13320 files in 15987 folders with total size 534 MiB.
+[2024.02.23-18.08.09:416][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.23-18.08.14:417][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.23-21.28.27:040][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10805 Seconds] waiting for h/w. InstanceID=1
+[2024.02.23-21.28.32:138][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 8 Seconds] waiting for h/w. InstanceID=1
+[2024.02.25-20.04.01:608][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.048 and deleted 449 files with total size 6 MiB and 437 empty folders. Scanned 13321 files in 15988 folders with total size 534 MiB.
+[2024.02.25-21.03.58:014][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.453 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12872 files in 15537 folders with total size 527 MiB.
+[2024.02.25-22.03.59:041][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.481 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12872 files in 15537 folders with total size 527 MiB.
+[2024.02.25-23.03.58:079][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.517 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12872 files in 15537 folders with total size 527 MiB.
+[2024.02.26-00.03.59:163][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.601 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12872 files in 15537 folders with total size 527 MiB.
+[2024.02.26-00.47.00:878][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.26-00.50.25:678][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
