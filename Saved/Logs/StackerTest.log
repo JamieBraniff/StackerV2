@@ -1217,3 +1217,15 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.26-00.03.59:163][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.601 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12872 files in 15537 folders with total size 527 MiB.
 [2024.02.26-00.47.00:878][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.02.26-00.50.25:678][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.26-11.35.35:669][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [38405 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-11.43.59:248][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.619 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12875 files in 15541 folders with total size 527 MiB.
+[2024.02.26-12.43.58:294][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.664 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12876 files in 15543 folders with total size 527 MiB.
+[2024.02.26-12.49.27:561][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.26-15.03.43:936][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.732 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13039 files in 15692 folders with total size 527 MiB.
+[2024.02.26-15.45.27:121][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-15.45.32:122][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-16.00.05:606][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [874 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-16.18.13:038][  0]LogDerivedDataCache: C:/Users/jbran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.346 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13039 files in 15692 folders with total size 527 MiB.
+[2024.02.26-16.52.12:649][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-16.52.17:650][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.02.26-17.41.41:057][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2963 Seconds] waiting for h/w. InstanceID=1
