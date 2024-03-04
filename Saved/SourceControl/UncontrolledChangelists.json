@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rloga/Documents/GitHub/StackerV2.2/StackerV2/Content/Robbie/Map/RobbieMapTest.umap",
+				"C:/Users/rloga/Documents/GitHub/StackerV2.2/StackerV2/Content/Robbie/BluePrints/BP_FallingBlock.uasset",
+				"C:/Users/rloga/Documents/GitHub/StackerV2.2/StackerV2/Content/Robbie/BluePrints/BP_SingleBlock.uasset",
 				"C:/Users/jbran/Documents/GitHub/StackerV2/Content/__ExternalActors__/Maps/Map_Jamie/0/4S/OWXBQDFWC2VVDWICLZIDE0.uasset",
 				"C:/Users/jbran/Documents/GitHub/StackerV2/Content/__ExternalActors__/Maps/Map_Jamie/5/W9/R2EGVZGQLN9NFQXNRH4UPO.uasset",
 				"C:/Users/jbran/Documents/GitHub/StackerV2/Content/Maps/Map_Jamie.umap",
