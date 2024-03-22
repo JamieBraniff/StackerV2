@@ -1195,3 +1195,1421 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.22-17.17.49:831][707]LogHttp: Warning: 0000078D287EE600: libcurl info message cache 34 (Closing connection)
 [2024.03.22-17.17.49:831][707]LogHttp: Warning: 0000078D287EE600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.22-17.17.49:831][707]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1784A54B-4616-E98B-A65E-2E8CC7E09D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4f8e6f134cf1e6ad85491da32a4027ac%7C972a2ebeb01348f98206092393b8452c%7Cc9607053-d7c5-478a-ac45-ddcf50a7cf4f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-17.19.57:675][288]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.22-17.22.24:622][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.22-17.22.24:697][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.24:699][ 16]LogAssetEditorSubsystem: Opening Asset editor for World /Game/James/UI_Map.UI_Map
+[2024.03.22-17.22.24:699][ 16]Cmd: MAP LOAD FILE="../../../../../Users/David/Documents/GitHub/StackerV2/Content/James/UI_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.22-17.22.24:699][ 16]LightingResults: New page: Lighting Build
+[2024.03.22-17.22.24:699][ 16]LoadErrors: New page: Loading map: UI_Map.umap
+[2024.03.22-17.22.24:765][ 16]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.24:766][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.24:769][ 16]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.03.22-17.22.24:769][ 16]MapCheck: New page: Map Check
+[2024.03.22-17.22.24:769][ 16]LightingResults: New page: Lighting Build
+[2024.03.22-17.22.24:773][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.22.24:794][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.22-17.22.24:797][ 16]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.24:798][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.24:804][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.22-17.22.24:809][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.22-17.22.24:815][ 16]LogAudio: Display: Audio Device (ID: 1) registered with world 'UI_Map'.
+[2024.03.22-17.22.24:815][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.24:815][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.24:816][ 16]LogAIModule: Creating AISystem for world UI_Map
+[2024.03.22-17.22.24:855][ 16]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.22-17.22.24:862][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.22-17.22.24:876][ 16]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.22-17.22.24:876][ 16]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2024.03.22-17.22.27:520][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-17.22.27:533][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.22-17.22.27:533][297]PIE: New page: PIE session: UI_Map (22 Mar 2024, 17:22:27)
+[2024.03.22-17.22.27:536][297]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.03.22-17.22.27:537][297]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.03.22-17.22.27:537][297]LogPlayLevel: Creating play world package: /Game/James/UEDPIE_0_UI_Map
+[2024.03.22-17.22.27:538][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001199s)
+[2024.03.22-17.22.27:538][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/James/UI_Map.UI_Map to /Game/James/UEDPIE_0_UI_Map.UI_Map (0.001246s)
+[2024.03.22-17.22.27:543][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.22-17.22.27:544][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.27:544][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.27:544][297]LogAIModule: Creating AISystem for world UI_Map
+[2024.03.22-17.22.27:545][297]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2024.03.22-17.22.27:545][297]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.22-17.22.27:545][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.22-17.22.27:545][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-17.22.27:545][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-17.22.27:545][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-17.22.27:545][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-17.22.27:547][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-17.22.27:578][297]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.22-17.22.27:579][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-17.22.27:579][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-17.22.27:579][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-17.22.27:580][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.03.22-17.22.27:580][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.03.22-17.22.27:582][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.03.22-17.22.27:583][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.03.22-17.22.27:583][297]LogInit: FAudioDevice initialized with ID 2.
+[2024.03.22-17.22.27:583][297]LogAudio: Display: Audio Device (ID: 2) registered with world 'UI_Map'.
+[2024.03.22-17.22.27:583][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.22-17.22.27:586][297]LogLoad: Game class is 'MenuGamemode_C'
+[2024.03.22-17.22.27:586][297]LogWorld: Bringing World /Game/James/UEDPIE_0_UI_Map.UI_Map up for play (max tick rate 0) at 2024.03.22-17.22.27
+[2024.03.22-17.22.27:586][297]LogWorld: Bringing up level for play took: 0.000452
+[2024.03.22-17.22.27:589][297]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.03.22-17.22.27:596][297]PIE: Server logged in
+[2024.03.22-17.22.27:597][297]PIE: Play in editor total start time 0.065 seconds.
+[2024.03.22-17.22.27:600][297]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.27:600][297]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.32:572][873]LogNet: Browse: /Game/Maps/Map_Jamie
+[2024.03.22-17.22.32:572][873]LogLoad: LoadMap: /Game/Maps/Map_Jamie
+[2024.03.22-17.22.32:572][873]LogWorld: BeginTearingDown for /Game/James/UEDPIE_0_UI_Map
+[2024.03.22-17.22.32:572][873]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.32:572][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.32:597][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.22.32:599][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.22-17.22.32:712][873]LogBlueprint: Warning: [AssetLog] C:\Users\David\Documents\GitHub\StackerV2\Content\Blueprints\Jamie\Multiplayer\Input_Receiver.uasset: [Compiler] InputAction Event references unknown Action 'Start' for  InputAction Start
+[2024.03.22-17.22.33:015][873]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Jamie'.
+[2024.03.22-17.22.33:015][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.33:015][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.33:015][873]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.22.33:016][873]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-17.22.33:016][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.22.33:016][873]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.03.22-17.22.33:016][873]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.22-17.22.33:026][873]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' started...
+[2024.03.22-17.22.33:028][873]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/UEDPIE_0_Map_Jamie.Crane_Top 
+[2024.03.22-17.22.33:185][873]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' took 158 ms
+[2024.03.22-17.22.33:191][873]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.22.33:191][873]LogWorldPartition: Display: WorldPartition initialize took 174 ms (total: 605 ms)
+[2024.03.22-17.22.33:191][873]LogPlayLevel: PIE: World Init took: (0.175815s)
+[2024.03.22-17.22.33:191][873]LogLoad: Game class is 'GM_PlayerOne_C'
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/CH/5FX6XA2J5YZ79K59XA4K69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/LV/8WGE9XEQL95BAXTA65LOWA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/NU/TC5109RDFDXIBXE4O3A3NQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/T5/E3E5QIA5TH4HZJVVAGSZIR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/YV/VMQ6EPS7OWXTX5ZPUGZ4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/B0/5VATRLAC253EBXUCI9RDJB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/UU/S09PPBS7KDH4MLFU99J9TO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/JN/Q96C20DEDXARCDJX62P8SZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/OJ/1ZBT6WWAV89ED2P08T7IH6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/T8/8VJYKL99Q6GONR2204V66P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/UQ/2JMLT4F2DNN2ZX65G5ZAMX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/9Z/N91D81W3PHQ47HGEIJD6XY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/FL/S07M4ME9MVN1PJYFXY9A1X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/Y5/62BOJROWV0S7A5NZ8MBQHN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/3P/IQNVQEX93ANZEBJG8DT3HY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/4V/ORMH42UB4OWQ2MBECN666A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/OZ/VSBDYIWH8KCHBHTP5XJGH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/3C/IGGCM2UQPR5PE5K6SJYF7T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/K5/133GNGBY3Q1D8M8P4JYYGA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/SP/96TUWHN5KP63OQ86MHPB08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/SS/DEMSXMS7ZELFNNDC488HK6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/VX/C7HRS580AG9XUPZD1SAJUA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/73/3HHJ6G4ALLOGY7G0CNISLV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/8/5N/G39PZOT63AE2JPQKXNSEIO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:203][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/5K/1W8QR0QG4ZVYSD2I2ZND1D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/DS/CN13BLZJXD8T7S4RR0NGBC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/L3/1PLZMYK5F1NYPWYPNQZOB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/09/DVC6PBAVQJDOGGDDOGZJ4J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/7H/6MVUIK2FVKIQ6XHKJXTZXJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/E8/L9TUEUHXC0N7RDIKWLFU94.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/2O/GSJPZY7YYWLUBP8GS81LXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/S4/E6NU2HWYSQ71Y6289UR9MV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/8B/6K5UT1CR20Y87Z3LAQ65W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/IV/LX1HUZ6L1UM0TSE2F1JXGS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/PX/TKX4ORBQPG4QSX4MQIBPNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/JY/053LP4PGFHCCJW4LPQTPRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.33:204][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.33:211][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie up for play (max tick rate 0) at 2024.03.22-17.22.33
+[2024.03.22-17.22.33:211][873]LogWorld: Bringing up level for play took: 0.005943
+[2024.03.22-17.22.33:216][873]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie_C:ExecuteUbergraph_Map_Jamie'!
+[2024.03.22-17.22.33:216][873]LogScript: Warning: Script Msg called by: Map_Jamie_C /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie:PersistentLevel.Map_Jamie_C_5
+[2024.03.22-17.22.33:217][873]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-17.22.33:217][873]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-342.539 Y=0.000 Z=206.650,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.22.33:217][873]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[1] = X=156.494 Y=0.000 Z=56.115,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.22.33:217][873]LogStreaming: Display: FlushAsyncLoading(): 20 QueuedPackages, 0 AsyncPackages
+[2024.03.22-17.22.33:265][873]LogBlueprintUserMessages: [Spawn_Block_C_UAID_088FC37511323DDF01_1842110386] 3DT_Block_C_0
+[2024.03.22-17.22.33:268][873]LogLoad: Took 0.696758 seconds to LoadMap(/Game/Maps/Map_Jamie)
+[2024.03.22-17.22.33:268][873]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.33:268][873]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.33:269][873]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.33:269][873]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.33:279][873]LogSlate: New Slate User Created. Platform User Id 1, User Index 1, Is Virtual User: 0
+[2024.03.22-17.22.33:280][873]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2024.03.22-17.22.37:243][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.22.37:243][234]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.22.37:244][234]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.37:244][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.37:245][234]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.22.37:249][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-17.22.37:253][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.37:258][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.22.37:259][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.22-17.22.37:259][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.22-17.22.37:262][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.22-17.22.37:284][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.22-17.22.37:321][235]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.03.22-17.22.41:295][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-17.22.41:310][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.22-17.22.41:310][705]PIE: New page: PIE session: UI_Map (22 Mar 2024, 17:22:41)
+[2024.03.22-17.22.41:310][705]LogPlayLevel: Creating play world package: /Game/James/UEDPIE_0_UI_Map
+[2024.03.22-17.22.41:312][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001667s)
+[2024.03.22-17.22.41:312][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/James/UI_Map.UI_Map to /Game/James/UEDPIE_0_UI_Map.UI_Map (0.001707s)
+[2024.03.22-17.22.41:317][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.22-17.22.41:319][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.41:319][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.41:319][705]LogAIModule: Creating AISystem for world UI_Map
+[2024.03.22-17.22.41:319][705]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2024.03.22-17.22.41:320][705]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.22-17.22.41:320][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.22-17.22.41:320][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-17.22.41:320][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-17.22.41:320][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-17.22.41:320][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-17.22.41:323][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-17.22.41:359][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.22-17.22.41:359][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-17.22.41:359][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-17.22.41:359][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-17.22.41:360][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.22-17.22.41:360][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.03.22-17.22.41:362][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.22-17.22.41:362][705]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.22-17.22.41:362][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.22-17.22.41:362][705]LogAudio: Display: Audio Device (ID: 3) registered with world 'UI_Map'.
+[2024.03.22-17.22.41:362][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.22-17.22.41:365][705]LogLoad: Game class is 'MenuGamemode_C'
+[2024.03.22-17.22.41:365][705]LogWorld: Bringing World /Game/James/UEDPIE_0_UI_Map.UI_Map up for play (max tick rate 0) at 2024.03.22-17.22.41
+[2024.03.22-17.22.41:365][705]LogWorld: Bringing up level for play took: 0.000386
+[2024.03.22-17.22.41:368][705]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.03.22-17.22.41:369][705]PIE: Server logged in
+[2024.03.22-17.22.41:370][705]PIE: Play in editor total start time 0.061 seconds.
+[2024.03.22-17.22.41:371][705]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.41:371][705]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.42:757][859]LogNet: Browse: /Game/Maps/Map_Jamie
+[2024.03.22-17.22.42:757][859]LogLoad: LoadMap: /Game/Maps/Map_Jamie
+[2024.03.22-17.22.42:757][859]LogWorld: BeginTearingDown for /Game/James/UEDPIE_0_UI_Map
+[2024.03.22-17.22.42:758][859]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.42:758][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.42:788][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.22.42:789][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.22-17.22.42:840][859]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_Jamie'.
+[2024.03.22-17.22.42:840][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.42:840][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.42:841][859]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.22.42:842][859]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-17.22.42:842][859]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.22.42:842][859]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.03.22-17.22.42:842][859]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.22-17.22.42:849][859]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' started...
+[2024.03.22-17.22.42:851][859]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/UEDPIE_0_Map_Jamie.Crane_Top 
+[2024.03.22-17.22.43:002][859]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' took 152 ms (total: 310 ms)
+[2024.03.22-17.22.43:008][859]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.22.43:008][859]LogWorldPartition: Display: WorldPartition initialize took 166 ms (total: 771 ms)
+[2024.03.22-17.22.43:008][859]LogPlayLevel: PIE: World Init took: (0.167545s)
+[2024.03.22-17.22.43:008][859]LogLoad: Game class is 'GM_PlayerOne_C'
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/CH/5FX6XA2J5YZ79K59XA4K69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/LV/8WGE9XEQL95BAXTA65LOWA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/0/NU/TC5109RDFDXIBXE4O3A3NQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/T5/E3E5QIA5TH4HZJVVAGSZIR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/1/YV/VMQ6EPS7OWXTX5ZPUGZ4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/B0/5VATRLAC253EBXUCI9RDJB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/2/UU/S09PPBS7KDH4MLFU99J9TO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/JN/Q96C20DEDXARCDJX62P8SZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/OJ/1ZBT6WWAV89ED2P08T7IH6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/T8/8VJYKL99Q6GONR2204V66P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/3/UQ/2JMLT4F2DNN2ZX65G5ZAMX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/9Z/N91D81W3PHQ47HGEIJD6XY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:014][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/FL/S07M4ME9MVN1PJYFXY9A1X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/4/Y5/62BOJROWV0S7A5NZ8MBQHN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/3P/IQNVQEX93ANZEBJG8DT3HY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/4V/ORMH42UB4OWQ2MBECN666A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/5/OZ/VSBDYIWH8KCHBHTP5XJGH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/3C/IGGCM2UQPR5PE5K6SJYF7T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/K5/133GNGBY3Q1D8M8P4JYYGA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/SP/96TUWHN5KP63OQ86MHPB08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/SS/DEMSXMS7ZELFNNDC488HK6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/6/VX/C7HRS580AG9XUPZD1SAJUA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/73/3HHJ6G4ALLOGY7G0CNISLV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/8/5N/G39PZOT63AE2JPQKXNSEIO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/9/5K/1W8QR0QG4ZVYSD2I2ZND1D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/DS/CN13BLZJXD8T7S4RR0NGBC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/L3/1PLZMYK5F1NYPWYPNQZOB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/09/DVC6PBAVQJDOGGDDOGZJ4J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/7H/6MVUIK2FVKIQ6XHKJXTZXJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/E8/L9TUEUHXC0N7RDIKWLFU94.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/2O/GSJPZY7YYWLUBP8GS81LXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/C/S4/E6NU2HWYSQ71Y6289UR9MV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/8B/6K5UT1CR20Y87Z3LAQ65W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/IV/LX1HUZ6L1UM0TSE2F1JXGS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/D/PX/TKX4ORBQPG4QSX4MQIBPNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/JY/053LP4PGFHCCJW4LPQTPRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.22.43:015][859]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Maps/UEDPIE_0_Map_Jamie_InstanceOf_/Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.22.43:020][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie up for play (max tick rate 0) at 2024.03.22-17.22.43
+[2024.03.22-17.22.43:020][859]LogWorld: Bringing up level for play took: 0.003827
+[2024.03.22-17.22.43:023][859]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie_C:ExecuteUbergraph_Map_Jamie'!
+[2024.03.22-17.22.43:023][859]LogScript: Warning: Script Msg called by: Map_Jamie_C /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie:PersistentLevel.Map_Jamie_C_5
+[2024.03.22-17.22.43:024][859]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-17.22.43:024][859]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=156.494 Y=0.000 Z=56.115,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.22.43:024][859]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[1] = X=-342.539 Y=0.000 Z=206.650,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.22.43:024][859]LogStreaming: Display: FlushAsyncLoading(): 20 QueuedPackages, 0 AsyncPackages
+[2024.03.22-17.22.43:046][859]LogBlueprintUserMessages: [Spawn_Block_C_UAID_088FC37511323DDF01_1842110386] 3DCube_Block_C_0
+[2024.03.22-17.22.43:047][859]LogLoad: Took 0.290541 seconds to LoadMap(/Game/Maps/Map_Jamie)
+[2024.03.22-17.22.43:048][859]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.43:048][859]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.43:048][859]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.22.43:048][859]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.22.50:123][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.22.50:123][547]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.22.50:124][547]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.22.50:124][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.50:125][547]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.22.50:128][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-17.22.50:132][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.22.50:140][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.22.50:140][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.22-17.22.50:140][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.22-17.22.50:142][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.22-17.22.50:156][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.22-17.22.50:191][548]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.03.22-17.22.56:427][208]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/James/UI/Menu.Menu
+[2024.03.22-17.22.56:428][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.56:428][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.56:436][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.22.56:436][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.22.56:445][208]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.22-17.22.56:446][208]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.22-17.22.57:539][208]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.22-17.22.57:554][208]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.22-17.22.57:554][208]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.22-17.23.25:382][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.22-17.23.25:471][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.23.25:472][319]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.22-17.23.25:472][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.23.25:472][319]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.23.25:493][319]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.23.25:493][319]LogWorldPartition: Display: WorldPartition initialize took 20 ms (total: 792 ms)
+[2024.03.22-17.23.25:497][319]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_Jamie.Map_Jamie
+[2024.03.22-17.23.25:498][319]Cmd: MAP LOAD FILE="../../../../../Users/David/Documents/GitHub/StackerV2/Content/Maps/Map_Jamie.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.22-17.23.25:498][319]LightingResults: New page: Lighting Build
+[2024.03.22-17.23.25:498][319]LoadErrors: New page: Loading map: Map_Jamie.umap
+[2024.03.22-17.23.25:552][319]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.23.25:552][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.23.25:552][319]MapCheck: New page: Map Check
+[2024.03.22-17.23.25:552][319]LightingResults: New page: Lighting Build
+[2024.03.22-17.23.25:570][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.23.25:572][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.22-17.23.25:574][319]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.23.25:574][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.23.25:575][319]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.23.25:595][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.03.22-17.23.25:614][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.22-17.23.25:671][319]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Jamie'.
+[2024.03.22-17.23.25:671][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.23.25:671][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.23.25:672][319]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.23.25:673][319]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.22-17.23.25:673][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.23.25:673][319]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.23.25:719][319]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.23.25:719][319]LogWorldPartition: Display: WorldPartition initialize took 46 ms (total: 839 ms)
+[2024.03.22-17.23.25:773][319]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.22-17.23.25:797][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.22-17.23.25:810][319]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.22-17.23.25:812][319]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Map_Jamie.Crane_Top 
+[2024.03.22-17.23.25:812][319]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.716ms to complete.
+[2024.03.22-17.23.28:936][636]LogSlate: Window 'Message Log' being destroyed
+[2024.03.22-17.23.28:946][636]LogSlate: Window 'Message Log' being destroyed
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 0 (Found bundle for host: 0x78cc9960060 [serially])
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 6 (Closing connection)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1784A54B-4616-E98B-A65E-2E8CC7E09D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4f8e6f134cf1e6ad85491da32a4027ac%7C972a2ebeb01348f98206092393b8452c%7Cc9607053-d7c5-478a-ac45-ddcf50a7cf4f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 9 (  Trying 54.85.209.105:443...)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.85.209.105) port 443)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.22-17.23.49:411][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 25 (Server certificate:)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 34 (Closing connection)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: 0000078D17149600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-17.23.49:412][398]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1784A54B-4616-E98B-A65E-2E8CC7E09D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4f8e6f134cf1e6ad85491da32a4027ac%7C972a2ebeb01348f98206092393b8452c%7Cc9607053-d7c5-478a-ac45-ddcf50a7cf4f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-17.23.54:895][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.22-17.23.54:939][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.23.54:940][ 33]LogAssetEditorSubsystem: Opening Asset editor for World /Game/James/UI_Map.UI_Map
+[2024.03.22-17.23.54:941][ 33]Cmd: MAP LOAD FILE="../../../../../Users/David/Documents/GitHub/StackerV2/Content/James/UI_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.22-17.23.54:941][ 33]LightingResults: New page: Lighting Build
+[2024.03.22-17.23.54:941][ 33]LoadErrors: New page: Loading map: UI_Map.umap
+[2024.03.22-17.23.54:993][ 33]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Maps/Map_Jamie.Map_Jamie:PersistentLevel.PaperTileMapActor_UAID_088FC375113273D701_1339365441.RenderComponent, from: Remove from navoctree)
+[2024.03.22-17.23.54:995][ 33]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.23.54:995][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.23.54:996][ 33]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.23.54:996][ 33]MapCheck: New page: Map Check
+[2024.03.22-17.23.54:996][ 33]LightingResults: New page: Lighting Build
+[2024.03.22-17.23.55:010][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.23.55:015][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.22-17.23.55:017][ 33]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.23.55:017][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.23.55:035][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.22-17.23.55:051][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.22-17.23.55:059][ 33]LogAudio: Display: Audio Device (ID: 1) registered with world 'UI_Map'.
+[2024.03.22-17.23.55:059][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.23.55:059][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.23.55:059][ 33]LogAIModule: Creating AISystem for world UI_Map
+[2024.03.22-17.23.55:107][ 33]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.22-17.23.55:128][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.22-17.23.55:141][ 33]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.22-17.23.55:144][ 33]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.479ms to complete.
+[2024.03.22-17.24.02:795][890]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.22-17.24.02:817][891]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.02:939][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.02:964][895]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.02:999][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.03:027][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.05:090][112]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/James/UI_Map.UI_Map:PersistentLevel.UI_Map
+[2024.03.22-17.24.05:090][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.05:090][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.24.05:269][113]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.22-17.24.24:300][269]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/James/UI/Splash.Splash
+[2024.03.22-17.24.24:300][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.24:300][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.24.24:312][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.24:312][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.24.46:109][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.03.22-17.24.46:194][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.46:194][637]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.22-17.24.46:194][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.24.46:194][637]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.24.46:213][637]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.24.46:213][637]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 857 ms)
+[2024.03.22-17.24.46:217][637]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_Jamie.Map_Jamie
+[2024.03.22-17.24.46:218][637]Cmd: MAP LOAD FILE="../../../../../Users/David/Documents/GitHub/StackerV2/Content/Maps/Map_Jamie.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.22-17.24.46:218][637]LightingResults: New page: Lighting Build
+[2024.03.22-17.24.46:218][637]LoadErrors: New page: Loading map: Map_Jamie.umap
+[2024.03.22-17.24.46:363][637]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.24.46:363][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.24.46:402][637]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.24.46:402][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.24.46:402][637]MapCheck: New page: Map Check
+[2024.03.22-17.24.46:402][637]LightingResults: New page: Lighting Build
+[2024.03.22-17.24.46:419][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.24.46:422][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.22-17.24.46:428][637]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.24.46:428][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.24.46:429][637]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.24.46:449][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.22-17.24.46:466][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.22-17.24.46:521][637]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Jamie'.
+[2024.03.22-17.24.46:521][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.46:521][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.24.46:521][637]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.24.46:522][637]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.22-17.24.46:522][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.24.46:522][637]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.24.46:567][637]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.24.46:567][637]LogWorldPartition: Display: WorldPartition initialize took 44 ms (total: 902 ms)
+[2024.03.22-17.24.46:621][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.22-17.24.46:647][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.22-17.24.46:661][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.22-17.24.46:662][637]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Map_Jamie.Crane_Top 
+[2024.03.22-17.24.46:662][637]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.464ms to complete.
+[2024.03.22-17.24.48:060][703]LogSlate: Window 'Message Log' being destroyed
+[2024.03.22-17.24.48:069][703]LogSlate: Window 'Message Log' being destroyed
+[2024.03.22-17.24.49:003][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-17.24.49:018][778]LogContentBundle: [Map_Jamie(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.22-17.24.49:019][778]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' started...
+[2024.03.22-17.24.49:021][778]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Map_Jamie.Crane_Top 
+[2024.03.22-17.24.49:203][778]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' took 185 ms (total: 495 ms)
+[2024.03.22-17.24.49:204][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.22-17.24.49:204][778]PIE: New page: PIE session: Map_Jamie (22 Mar 2024, 17:24:49)
+[2024.03.22-17.24.49:243][778]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.24.49:264][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020556s)
+[2024.03.22-17.24.49:264][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Jamie.Map_Jamie to /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie (0.020611s)
+[2024.03.22-17.24.49:280][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.22-17.24.49:282][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.24.49:282][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.24.49:282][778]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.24.49:283][778]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-17.24.49:283][778]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.24.49:283][778]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.24.49:283][778]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.22-17.24.49:289][778]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.24.49:289][778]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 908 ms)
+[2024.03.22-17.24.49:289][778]LogPlayLevel: PIE: World Init took: (0.007733s)
+[2024.03.22-17.24.49:290][778]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.22-17.24.49:290][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.22-17.24.49:290][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-17.24.49:290][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-17.24.49:290][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-17.24.49:290][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-17.24.49:292][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-17.24.49:323][778]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.22-17.24.49:323][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-17.24.49:323][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-17.24.49:323][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-17.24.49:324][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.22-17.24.49:324][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.22-17.24.49:326][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.22-17.24.49:326][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.22-17.24.49:326][778]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.22-17.24.49:326][778]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_Jamie'.
+[2024.03.22-17.24.49:326][778]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.22-17.24.49:329][778]LogLoad: Game class is 'GM_PlayerOne_C'
+[2024.03.22-17.24.49:330][778]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie up for play (max tick rate 0) at 2024.03.22-17.24.49
+[2024.03.22-17.24.49:330][778]LogWorld: Bringing up level for play took: 0.000985
+[2024.03.22-17.24.49:333][778]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.22-17.24.49:333][778]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-17.24.49:334][778]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=156.494 Y=0.000 Z=56.115,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.24.49:334][778]LogStreaming: Display: FlushAsyncLoading(): 20 QueuedPackages, 0 AsyncPackages
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/JY/053LP4PGFHCCJW4LPQTPRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/PX/TKX4ORBQPG4QSX4MQIBPNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/IV/LX1HUZ6L1UM0TSE2F1JXGS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/8B/6K5UT1CR20Y87Z3LAQ65W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/S4/E6NU2HWYSQ71Y6289UR9MV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/2O/GSJPZY7YYWLUBP8GS81LXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:350][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/E8/L9TUEUHXC0N7RDIKWLFU94.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/7H/6MVUIK2FVKIQ6XHKJXTZXJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/09/DVC6PBAVQJDOGGDDOGZJ4J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/L3/1PLZMYK5F1NYPWYPNQZOB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/DS/CN13BLZJXD8T7S4RR0NGBC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/5K/1W8QR0QG4ZVYSD2I2ZND1D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/8/5N/G39PZOT63AE2JPQKXNSEIO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/73/3HHJ6G4ALLOGY7G0CNISLV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/VX/C7HRS580AG9XUPZD1SAJUA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/SS/DEMSXMS7ZELFNNDC488HK6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/SP/96TUWHN5KP63OQ86MHPB08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/K5/133GNGBY3Q1D8M8P4JYYGA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/3C/IGGCM2UQPR5PE5K6SJYF7T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/OZ/VSBDYIWH8KCHBHTP5XJGH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/4V/ORMH42UB4OWQ2MBECN666A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/3P/IQNVQEX93ANZEBJG8DT3HY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/Y5/62BOJROWV0S7A5NZ8MBQHN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/FL/S07M4ME9MVN1PJYFXY9A1X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/9Z/N91D81W3PHQ47HGEIJD6XY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/UQ/2JMLT4F2DNN2ZX65G5ZAMX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/T8/8VJYKL99Q6GONR2204V66P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/OJ/1ZBT6WWAV89ED2P08T7IH6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/JN/Q96C20DEDXARCDJX62P8SZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/UU/S09PPBS7KDH4MLFU99J9TO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/B0/5VATRLAC253EBXUCI9RDJB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/YV/VMQ6EPS7OWXTX5ZPUGZ4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/T5/E3E5QIA5TH4HZJVVAGSZIR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/NU/TC5109RDFDXIBXE4O3A3NQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/LV/8WGE9XEQL95BAXTA65LOWA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:351][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/CH/5FX6XA2J5YZ79K59XA4K69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.24.49:375][778]LogBlueprintUserMessages: [Spawn_Block_C_UAID_088FC37511323DDF01_1842110386] 3DT_Block_C_0
+[2024.03.22-17.24.49:376][778]PIE: Server logged in
+[2024.03.22-17.24.49:377][778]PIE: Play in editor total start time 0.359 seconds.
+[2024.03.22-17.24.49:378][778]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.24.49:378][778]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.24.49:379][778]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.24.49:379][778]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.25.16:404][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.25.16:404][977]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.25.16:405][977]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.25.16:406][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.25.16:406][977]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.25.16:410][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-17.25.16:416][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.25.16:437][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.25.16:438][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.22-17.25.16:438][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.22-17.25.16:440][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.22-17.25.16:447][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.25.16:458][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.22-17.25.16:539][978]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.22-17.25.17:435][ 56]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-17.25.17:451][ 56]LogContentBundle: [Map_Jamie(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.22-17.25.17:451][ 56]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' started...
+[2024.03.22-17.25.17:453][ 56]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Map_Jamie.Crane_Top 
+[2024.03.22-17.25.17:646][ 56]LogWorldPartition: Display: GenerateStreaming for 'Map_Jamie' took 195 ms (total: 691 ms)
+[2024.03.22-17.25.17:647][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.22-17.25.17:647][ 56]PIE: New page: PIE session: Map_Jamie (22 Mar 2024, 17:25:17)
+[2024.03.22-17.25.17:647][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.25.17:668][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020830s)
+[2024.03.22-17.25.17:668][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Jamie.Map_Jamie to /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie (0.020870s)
+[2024.03.22-17.25.17:684][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.22-17.25.17:687][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.25.17:687][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.25.17:687][ 56]LogAIModule: Creating AISystem for world Map_Jamie
+[2024.03.22-17.25.17:688][ 56]LogWorldPartition: ULevel::OnLevelLoaded(Map_Jamie)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-17.25.17:688][ 56]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-17.25.17:688][ 56]LogWorldPartition: UWorldPartition::Initialize : World = Map_Jamie, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.22-17.25.17:688][ 56]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.22-17.25.17:693][ 56]LogContentBundle: [Map_Jamie(Standalone)] Creating new contrainer.
+[2024.03.22-17.25.17:693][ 56]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 913 ms)
+[2024.03.22-17.25.17:693][ 56]LogPlayLevel: PIE: World Init took: (0.006510s)
+[2024.03.22-17.25.17:693][ 56]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.22-17.25.17:693][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.22-17.25.17:693][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-17.25.17:694][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-17.25.17:694][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-17.25.17:694][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-17.25.17:696][ 56]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.22-17.25.17:728][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.22-17.25.17:731][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.22-17.25.17:731][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.22-17.25.17:731][ 56]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.22-17.25.17:731][ 56]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_Jamie'.
+[2024.03.22-17.25.17:731][ 56]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.22-17.25.17:734][ 56]LogLoad: Game class is 'GM_PlayerOne_C'
+[2024.03.22-17.25.17:735][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Jamie.Map_Jamie up for play (max tick rate 0) at 2024.03.22-17.25.17
+[2024.03.22-17.25.17:736][ 56]LogWorld: Bringing up level for play took: 0.001059
+[2024.03.22-17.25.17:738][ 56]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.22-17.25.17:739][ 56]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-17.25.17:739][ 56]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-342.539 Y=0.000 Z=206.650,P=0.000000 Y=0.000000 R=-0.000000
+[2024.03.22-17.25.17:740][ 56]LogStreaming: Display: FlushAsyncLoading(): 20 QueuedPackages, 0 AsyncPackages
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/Q7/OKC50B4CB4W84RLBQ26VEF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/E/JY/053LP4PGFHCCJW4LPQTPRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/PX/TKX4ORBQPG4QSX4MQIBPNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/IV/LX1HUZ6L1UM0TSE2F1JXGS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/D/8B/6K5UT1CR20Y87Z3LAQ65W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/S4/E6NU2HWYSQ71Y6289UR9MV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/62/6BZQA7Z233XOFZXH06T4K9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/C/2O/GSJPZY7YYWLUBP8GS81LXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/PX/SSWRZZC98YP5TTJ0GHSM3A.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/E8/L9TUEUHXC0N7RDIKWLFU94.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/7H/6MVUIK2FVKIQ6XHKJXTZXJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/B/09/DVC6PBAVQJDOGGDDOGZJ4J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/XX/L816PWDR712ZXEJZDQLI5W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/U8/SNFH1JYDSN8J2FF5EMETAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/L3/1PLZMYK5F1NYPWYPNQZOB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/DS/CN13BLZJXD8T7S4RR0NGBC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/A/6B/91HV1ZU51FEIF5EL6PVKI0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/5K/1W8QR0QG4ZVYSD2I2ZND1D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/9/34/CUQ44JV6VH1YEU8IH2YH7K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/8/5N/G39PZOT63AE2JPQKXNSEIO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/AK/AON9LZCK7G2AGM6AWRR43Z.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/7/73/3HHJ6G4ALLOGY7G0CNISLV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/VX/C7HRS580AG9XUPZD1SAJUA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/SS/DEMSXMS7ZELFNNDC488HK6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/SP/96TUWHN5KP63OQ86MHPB08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/K5/133GNGBY3Q1D8M8P4JYYGA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/6/3C/IGGCM2UQPR5PE5K6SJYF7T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/OZ/VSBDYIWH8KCHBHTP5XJGH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/BA/X54LVSONEDGMVX747UOKBB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/4V/ORMH42UB4OWQ2MBECN666A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/3P/IQNVQEX93ANZEBJG8DT3HY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/5/29/U1X734NJTTUE0DLBXGCTOV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/Y5/62BOJROWV0S7A5NZ8MBQHN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/K9/91JK1A5NM2QVB2UB2676JU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/FL/S07M4ME9MVN1PJYFXY9A1X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/4/9Z/N91D81W3PHQ47HGEIJD6XY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/UQ/2JMLT4F2DNN2ZX65G5ZAMX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/T8/8VJYKL99Q6GONR2204V66P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/OJ/1ZBT6WWAV89ED2P08T7IH6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/3/JN/Q96C20DEDXARCDJX62P8SZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/UU/S09PPBS7KDH4MLFU99J9TO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/OF/RR3RJ3JP8DLZ0TBR15DHW0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.03.22-17.25.17:756][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/2/B0/5VATRLAC253EBXUCI9RDJB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/YV/VMQ6EPS7OWXTX5ZPUGZ4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/T5/E3E5QIA5TH4HZJVVAGSZIR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/1/OU/QOMRYG04GAFJTJE5EUIJYL.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/NU/TC5109RDFDXIBXE4O3A3NQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/LV/8WGE9XEQL95BAXTA65LOWA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:757][ 56]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Map_Jamie/0/CH/5FX6XA2J5YZ79K59XA4K69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.03.22-17.25.17:779][ 56]LogBlueprintUserMessages: [Spawn_Block_C_UAID_088FC37511323DDF01_1842110386] 3DT_Block_C_0
+[2024.03.22-17.25.17:781][ 56]PIE: Server logged in
+[2024.03.22-17.25.17:782][ 56]PIE: Play in editor total start time 0.331 seconds.
+[2024.03.22-17.25.17:783][ 56]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.25.17:783][ 56]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.25.17:783][ 56]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis Up/Down
+[2024.03.22-17.25.17:783][ 56]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis Left/Right
+[2024.03.22-17.26.08:144][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.26.08:144][500]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Jamie
+[2024.03.22-17.26.08:145][500]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.08:145][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.08:145][500]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.26.08:149][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-17.26.08:154][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.08:171][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-17.26.08:172][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.22-17.26.08:172][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.22-17.26.08:174][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.22-17.26.08:192][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.22-17.26.08:270][501]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.22-17.26.34:784][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.22-17.26.34:823][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.26.34:824][410]LogAssetEditorSubsystem: Opening Asset editor for World /Game/James/UI_Map.UI_Map
+[2024.03.22-17.26.34:824][410]Cmd: MAP LOAD FILE="../../../../../Users/David/Documents/GitHub/StackerV2/Content/James/UI_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.22-17.26.34:824][410]LightingResults: New page: Lighting Build
+[2024.03.22-17.26.34:824][410]LoadErrors: New page: Loading map: UI_Map.umap
+[2024.03.22-17.26.34:874][410]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Maps/Map_Jamie.Map_Jamie:PersistentLevel.PaperTileMapActor_UAID_088FC375113273D701_1339365441.RenderComponent, from: Remove from navoctree)
+[2024.03.22-17.26.34:877][410]LogWorld: UWorld::CleanupWorld for Map_Jamie, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.34:877][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.34:879][410]LogContentBundle: [Map_Jamie(Standalone)] Deleting container.
+[2024.03.22-17.26.34:879][410]MapCheck: New page: Map Check
+[2024.03.22-17.26.34:879][410]LightingResults: New page: Lighting Build
+[2024.03.22-17.26.34:894][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-17.26.34:899][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.22-17.26.34:901][410]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.34:901][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.34:919][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.22-17.26.34:935][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.22-17.26.34:942][410]LogAudio: Display: Audio Device (ID: 1) registered with world 'UI_Map'.
+[2024.03.22-17.26.34:942][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-17.26.34:942][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-17.26.34:943][410]LogAIModule: Creating AISystem for world UI_Map
+[2024.03.22-17.26.34:986][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.22-17.26.35:006][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.22-17.26.35:021][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.22-17.26.35:023][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.004ms to complete.
+[2024.03.22-17.26.41:124][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.22-17.26.41:127][ 97]LogStall: Shutdown...
+[2024.03.22-17.26.41:135][ 97]LogStall: Shutdown complete.
+[2024.03.22-17.26.41:243][ 97]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.41:243][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.41:258][ 97]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.41:258][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.41:318][ 97]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.41:319][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.41:333][ 97]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.41:333][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.41:431][ 97]LogSlate: Window 'StackerTest - Unreal Editor' being destroyed
+[2024.03.22-17.26.41:518][ 98]Cmd: QUIT_EDITOR
+[2024.03.22-17.26.41:518][ 98]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.22-17.26.41:526][ 98]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.22-17.26.41:526][ 98]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.22-17.26.41:526][ 98]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.22-17.26.41:526][ 98]LogWorld: UWorld::CleanupWorld for UI_Map, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.41:526][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-17.26.41:543][ 98]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.22-17.26.41:931][ 98]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.22-17.26.41:931][ 98]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.22-17.26.41:931][ 98]LogAudio: Display: Audio Device unregistered from world 'UI_Map'.
+[2024.03.22-17.26.41:931][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.03.22-17.26.41:931][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.22-17.26.41:932][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.22-17.26.41:938][ 98]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.22-17.26.41:939][ 98]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.03.22-17.26.41:950][ 98]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.22-17.26.41:950][ 98]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2024.03.22-17.26.41:950][ 98]LogExit: Preparing to exit.
+[2024.03.22-17.26.41:987][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.03.22-17.26.42:009][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:009][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:009][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:009][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:010][ 98]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.22-17.26.42:366][ 98]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.42:367][ 98]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.42:367][ 98]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.42:368][ 98]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.42:368][ 98]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-17.26.42:486][ 98]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.22-17.26.42:537][ 98]LogExit: Editor shut down
+[2024.03.22-17.26.42:549][ 98]LogExit: Transaction tracking system shut down
+[2024.03.22-17.26.42:753][ 98]LogExit: Object subsystem successfully closed.
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: ================================================
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.22-17.26.42:762][ 98]LogShaderCompilers: Display: ================================================
+[2024.03.22-17.26.42:853][ 98]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.22-17.26.42:872][ 98]LogVirtualization: UE::Virtualization was shutdown
+[2024.03.22-17.26.42:983][ 98]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1058)
+[2024.03.22-17.26.42:983][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1056)
+[2024.03.22-17.26.42:983][ 98]LogModuleManager: Shutting down and abandoning module Voice (1054)
+[2024.03.22-17.26.42:983][ 98]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1052)
+[2024.03.22-17.26.42:983][ 98]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1042)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1026)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1024)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1022)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1020)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WebMMedia (1018)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1016)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1014)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1013)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1010)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1008)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1006)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1004)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1002)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1000)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (998)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module TextureAlignMode (996)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module BspMode (994)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module GeometryMode (992)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (990)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module WaveTableEditor (988)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module RigVMEditor (986)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (984)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module GooglePADEditor (982)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (980)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (978)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (976)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (974)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (972)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module IKRigEditor (970)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module ControlRigEditor (968)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (966)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module PlanarCut (964)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module FractureEngine (962)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SmartSnapping (960)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module CharacterAI (958)
+[2024.03.22-17.26.42:984][ 98]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.03.22-17.26.42:985][ 98]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.03.22-17.26.43:974][ 98]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.03.22-17.26.43:974][ 98]MemoryProfiler: Shutdown
+[2024.03.22-17.26.43:974][ 98]NetworkingProfiler: Shutdown
+[2024.03.22-17.26.43:974][ 98]LoadingProfiler: Shutdown
+[2024.03.22-17.26.43:974][ 98]TimingProfiler: Shutdown
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.03.22-17.26.43:975][ 98]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.03.22-17.26.43:984][ 98]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.03.22-17.26.43:985][ 98]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (762)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (760)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (758)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (756)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module TakesCore (754)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (748)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (746)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module LightMixer (740)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (738)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (736)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (734)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MediaPlate (732)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MediaCompositing (730)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ImgMedia (728)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module EditorDebugTools (726)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (724)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (722)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (720)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module UVEditorTools (718)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module UVEditor (716)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (714)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (712)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module PluginBrowser (710)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (708)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (706)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (704)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module CurveEditorTools (702)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (700)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (698)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module CryptoKeys (696)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ChangelistReview (694)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module SynthesisEditor (692)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ResonanceAudio (690)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (688)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (686)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (684)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ModelingOperators (682)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (680)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ModelingComponents (678)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GeometryFramework (677)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (674)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module MeshModelingTools (672)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (670)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module InputDebugging (668)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GooglePAD (666)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (664)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (662)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (660)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module DynamicMesh (658)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (656)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AudioCapture (654)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (653)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AssetTags (650)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (648)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (646)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AppleImageUtils (644)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module AndroidPermission (642)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (640)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (638)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module VariantManager (636)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (634)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (632)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module TakeSequencer (630)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module TakeMovieScene (628)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (626)
+[2024.03.22-17.26.44:223][ 98]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (624)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeEditor (622)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (620)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (618)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (616)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeExport (614)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeMessages (612)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GLTFCore (610)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module TemplateSequence (608)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (606)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SequencerScripting (604)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (602)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ControlRigSpline (600)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (598)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (596)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (594)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AlembicImporter (590)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AlembicLibrary (589)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCache (588)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (587)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (582)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (580)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InterchangeTests (578)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module UObjectPlugin (576)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (574)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (572)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (570)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (568)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module PluginUtils (566)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (564)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module DumpGPUServices (562)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GitSourceControl (560)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (558)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (556)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (554)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (552)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (550)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (548)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (546)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (544)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (542)
+[2024.03.22-17.26.44:224][ 98]LogOpenImageDenoise: OIDN shutting down
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MeshLODToolset (540)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (538)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (536)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (534)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (532)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (530)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (528)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module LocalizableMessage (526)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (524)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (522)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (520)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (518)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (516)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (515)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module DataflowNodes (508)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (506)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module DataflowEditor (504)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (502)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (500)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (498)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (496)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module Paper2DEditor (494)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module FractureEditor (492)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (490)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ChaosNiagara (488)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module BackChannel (486)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (484)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AutomationUtils (482)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (470)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (468)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module TreeMap (467)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (464)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (462)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module FacialAnimation (460)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module DataValidation (458)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (456)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module Synthesis (454)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SoundFields (452)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (450)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module RigVM (448)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module SignificanceManager (446)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (444)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (442)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (440)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundEditor (438)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AudioWidgets (437)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (436)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (432)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundEngine (430)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module WaveTable (429)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (427)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (424)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (422)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (420)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (418)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (416)
+[2024.03.22-17.26.44:224][ 98]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (414)
+[2024.03.22-17.26.44:225][ 98]LogModuleManager: Shutting down and abandoning module CableComponent (412)
+[2024.03.22-17.26.44:225][ 98]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (410)
+[2024.03.22-17.26.44:225][ 98]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (409)
+[2024.03.22-17.26.44:225][ 98]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (406)
+[2024.03.22-17.26.44:225][ 98]LogModuleManager: Shutting down and abandoning module UdpMessaging (404)
+[2024.03.22-17.26.44:326][ 98]LogModuleManager: Shutting down and abandoning module InterchangePipelines (402)
+[2024.03.22-17.26.44:326][ 98]LogModuleManager: Shutting down and abandoning module InterchangeImport (400)
+[2024.03.22-17.26.44:326][ 98]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (398)
+[2024.03.22-17.26.44:326][ 98]LogModuleManager: Shutting down and abandoning module InterchangeNodes (396)
+[2024.03.22-17.26.44:326][ 98]LogModuleManager: Shutting down and abandoning module TcpMessaging (394)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (390)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module Niagara (388)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module SignalProcessing (387)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module NiagaraEditor (385)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowser (384)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ToolMenus (383)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowserData (381)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module NiagaraCore (376)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (374)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module IKRig (372)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (370)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module ControlRig (368)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module Constraints (367)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module AnimationData (364)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module GameplayCameras (362)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (360)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (358)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module AnimationSharing (356)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module StructUtils (354)
+[2024.03.22-17.26.44:427][ 98]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (352)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module PBIK (350)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module FullBodyIK (348)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module Paper2D (346)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (344)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module TakeRecorder (343)
+[2024.03.22-17.26.44:505][ 98]LogModuleManager: Shutting down and abandoning module LevelEditor (341)
+[2024.03.22-17.26.44:508][ 98]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (340)
+[2024.03.22-17.26.44:508][ 98]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (338)
+[2024.03.22-17.26.44:508][ 98]LogModuleManager: Shutting down and abandoning module MainFrame (336)
+[2024.03.22-17.26.44:508][ 98]LogModuleManager: Shutting down and abandoning module HotReload (335)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module ChaosCaching (330)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module LevelSequence (329)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.03.22-17.26.44:509][ 98]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.03.22-17.26.44:510][ 98]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.03.22-17.26.44:512][ 98]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.03.22-17.26.44:522][ 98]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.03.22-17.26.44:533][ 98]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.03.22-17.26.44:533][ 98]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.03.22-17.26.44:533][ 98]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.03.22-17.26.44:533][ 98]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.03.22-17.26.44:536][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.03.22-17.26.44:537][ 98]LogModuleManager: Shutting down and abandoning module WmfMedia (122)
+[2024.03.22-17.26.44:540][ 98]LogModuleManager: Shutting down and abandoning module Media (121)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (118)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (116)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module AISupportModule (114)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (112)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module ChunkDownloader (110)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2024.03.22-17.26.44:542][ 98]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module GLTFExporter (104)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (102)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module NiagaraShader (100)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module ACLPlugin (96)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2024.03.22-17.26.44:543][ 98]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2024.03.22-17.26.44:546][ 98]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2024.03.22-17.26.44:546][ 98]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2024.03.22-17.26.44:577][ 98]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2024.03.22-17.26.44:577][ 98]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.03.22-17.26.44:577][ 98]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1784A54B-4616-E98B-A65E-2E8CC7E09D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4f8e6f134cf1e6ad85491da32a4027ac%7C972a2ebeb01348f98206092393b8452c%7Cc9607053-d7c5-478a-ac45-ddcf50a7cf4f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.03.22-17.26.44:604][ 98]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (76)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (74)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (72)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (70)
+[2024.03.22-17.26.44:605][ 98]RenderDocPlugin: plugin has been unloaded.
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PixWinPlugin (68)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.03.22-17.26.44:605][ 98]LogXGEController: Cleaning working directory: C:/Users/David/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.03.22-17.26.44:605][ 98]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.03.22-17.26.44:606][ 98]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.03.22-17.26.44:607][ 98]LogPakFile: Destroying PakPlatformFile
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.03.22-17.26.44:607][ 98]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.03.22-17.26.44:676][ 98]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.22-17.26.44:707][ 98]LogExit: Exiting.
+[2024.03.22-17.26.44:717][ 98]Log file closed, 03/22/24 17:26:44
